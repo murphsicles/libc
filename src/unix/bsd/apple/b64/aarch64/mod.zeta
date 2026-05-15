@@ -1,0 +1,7 @@
+// Auto-converted from /tmp/df-libc-1.0.0-alpha.3/libc-1.0.0-alpha.3/src/unix/bsd/apple/b64/aarch64/mod.rs
+
+use crate::prelude::*;
+pub type boolean_t = c_int;
+
+s ! { pub struct malloc_zone_t { __private: [crate::uintptr_t; 18] } }
+s_no_extra_traits ! { pub struct max_align_t { priv_: f64 } }

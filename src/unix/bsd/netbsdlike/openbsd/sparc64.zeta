@@ -1,0 +1,6 @@
+// Auto-converted from /tmp/df-libc-1.0.0-alpha.3/libc-1.0.0-alpha.3/src/unix/bsd/netbsdlike/openbsd/sparc64.rs
+
+pub const _ALIGNBYTES: usize = 0xf;
+
+pub const _MAX_PAGE_SHIFT: u32 = 13;
+

@@ -1,0 +1,7 @@
+// Auto-converted from /tmp/df-libc-1.0.0-alpha.3/libc-1.0.0-alpha.3/src/unix/bsd/netbsdlike/openbsd/powerpc64.rs
+
+use crate::prelude::*;
+const _ALIGNBYTES: usize = size_of::<c_long>() - 1;
+
+pub const _MAX_PAGE_SHIFT: u32 = 12;
+

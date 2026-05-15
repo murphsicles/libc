@@ -1,0 +1,7 @@
+// Auto-converted from /tmp/df-libc-1.0.0-alpha.3/libc-1.0.0-alpha.3/src/unix/bsd/netbsdlike/netbsd/sparc64.rs
+
+use crate::prelude::*;
+pub type __cpu_simple_lock_nv_t = c_uchar;
+
+pub const _ALIGNBYTES: usize = 0xf;
+
